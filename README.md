@@ -1,1 +1,1 @@
-My first API.
+An API which shows pokedex entries.
